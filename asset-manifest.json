@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/orderbook/static/css/main.7caa8484.chunk.css",
+    "main.js": "/orderbook/static/js/main.ba2456de.chunk.js",
+    "main.js.map": "/orderbook/static/js/main.ba2456de.chunk.js.map",
+    "runtime-main.js": "/orderbook/static/js/runtime-main.a44be61b.js",
+    "runtime-main.js.map": "/orderbook/static/js/runtime-main.a44be61b.js.map",
+    "static/js/2.e9ab1091.chunk.js": "/orderbook/static/js/2.e9ab1091.chunk.js",
+    "static/js/2.e9ab1091.chunk.js.map": "/orderbook/static/js/2.e9ab1091.chunk.js.map",
+    "static/js/3.dba667d2.chunk.js": "/orderbook/static/js/3.dba667d2.chunk.js",
+    "static/js/3.dba667d2.chunk.js.map": "/orderbook/static/js/3.dba667d2.chunk.js.map",
+    "index.html": "/orderbook/index.html",
+    "static/css/main.7caa8484.chunk.css.map": "/orderbook/static/css/main.7caa8484.chunk.css.map",
+    "static/js/2.e9ab1091.chunk.js.LICENSE.txt": "/orderbook/static/js/2.e9ab1091.chunk.js.LICENSE.txt",
+    "static/media/bitbay-logo.943b1b3f.svg": "/orderbook/static/media/bitbay-logo.943b1b3f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a44be61b.js",
+    "static/js/2.e9ab1091.chunk.js",
+    "static/css/main.7caa8484.chunk.css",
+    "static/js/main.ba2456de.chunk.js"
+  ]
+}
